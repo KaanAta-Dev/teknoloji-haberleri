@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "GTA VI için geri sayım: Oyun 19 Kasım'da çıkıyor",
+    "summary": "Rockstar Games'in merakla beklenen oyunu Grand Theft Auto VI, iki kez ertelendikten sonra 19 Kasım'da oyuncularla buluşuyor.",
+    "category": "oyun",
+    "categoryName": "Oyun",
+    "date": "2026-11-17",
+    "image": "images/haber-1.webp",
+    "imageAlt": "Gün batımında palmiye ağaçlı bir sahil şehri manzarası",
+    "featured": true,
+    "content": [
+      "Take-Two Interactive'in açıkladığı takvime göre Grand Theft Auto VI, 19 Kasım 2026 Perşembe günü çıkış yapacak. Oyun ilk olarak 2025 sonbaharı için planlanmış, ardından önce Mayıs 2026'ya, sonra da Kasım 2026'ya ertelenmişti.",
+      "Yayıncı şirket, son ertelemenin gerekçesini oyunun oyuncuların beklediği kalite seviyesine ulaşması için ek zamana ihtiyaç duyulması olarak açıklamıştı. Çıkışa günler kala Rockstar'ın ön yükleme zamanlaması ve kurulum boyutuyla ilgili bilgileri paylaştığı bildiriliyor.",
+      "GTA VI'nın çıkışı, oyun sektörünün yılın en önemli olaylarından biri olarak görülüyor. Pek çok yayıncının, çakışmamak için kendi oyunlarının çıkış tarihlerini bu tarihe göre ayarladığı biliniyor."
+    ],
+    "source": {
+      "name": "TipRanks / The Fly",
+      "url": "https://www.tipranks.com/news/the-fly/game-on-take-two-delays-gta-vi-to-november-2026-thefly"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Xiaomi 18 Pro serisi bugün Paris'te tanıtılıyor",
+    "summary": "Xiaomi, 18 Pro ve 18 Pro Max modellerini Paris'te düzenlenen etkinlikle küresel pazara sunuyor.",
+    "category": "mobil",
+    "categoryName": "Mobil",
+    "date": "2026-11-17",
+    "image": "images/haber-2.webp",
+    "imageAlt": "Karanlık bir zemin üzerinde duran, arka yüzü görünen modern bir akıllı telefon",
+    "featured": false,
+    "content": [
+      "Xiaomi'nin yeni amiral gemisi serisi 18 Pro ve 18 Pro Max, 17 Kasım'da Paris'te yerel saatle 14.00'te başlayan etkinlikle dünya pazarına tanıtılıyor.",
+      "Telefonların teknik özellikleri ve fiyatları etkinlikte netleşecek. Serinin, kasım ayının yoğun akıllı telefon takviminin en dikkat çeken lansmanlarından biri olması bekleniyor.",
+      "Etkinlik sonrasında açıklanan ayrıntılarla bu haberi güncelleyeceğiz."
+    ],
+    "source": {
+      "name": "Beebom",
+      "url": "https://gadgets.beebom.com/news/all-upcoming-phones-launching-this-week-november-16-november-22"
+    }
+  },
+  {
+    "id": 3,
+    "title": "GraphQL'e HTTP standardı ve yeni spesifikasyon sürümü geldi",
+    "summary": "GraphQL teknik yönlendirme komitesi, GraphQL over HTTP spesifikasyonunu ve ana spesifikasyonun yeni sürümünü art arda yayınladı.",
+    "category": "yazilim",
+    "categoryName": "Yazılım",
+    "date": "2026-11-13",
+    "image": "images/haber-3.webp",
+    "imageAlt": "Birbirine çizgilerle bağlanmış noktalardan oluşan soyut bir veri ağı",
+    "featured": false,
+    "content": [
+      "GraphQL teknik yönlendirme komitesi 12 Kasım'da GraphQL over HTTP spesifikasyonunu yayınladı. Ana GraphQL spesifikasyonu bugüne kadar verinin hangi yoldan taşınacağı konusunda bir seçim yapmıyordu; yeni belge, HTTP üzerinden iletişim için ortak kurallar getiriyor.",
+      "Komite bir gün sonra ana spesifikasyonun Eylül 2026 sürümünü de yayınladı. Dört yıllık bir aradan sonra gelen bu sürümle birlikte artık her yıl yeni bir sürüm yayınlanması hedefleniyor.",
+      "Yeni sürümde, boş seçim kümelerinin geçerli sayılması gibi küçük ama geliştiricilerin işini kolaylaştıran değişiklikler de bulunuyor."
+    ],
+    "source": {
+      "name": "Dev Weekly",
+      "url": "https://singhajit.com/dev-weekly/2026/nov-9-15/dotnet-11-rust-1-100-graphql-http-nitro-gemini-decisions/"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Microsoft .NET 11'i yayınladı: C# 15 ile birleşim tipleri geldi",
+    "summary": "Microsoft, .NET 11'i C# 15, daha hızlı geliştirici araçları ve yapay zekâ odaklı yeniliklerle kullanıma sundu.",
+    "category": "yazilim",
+    "categoryName": "Yazılım",
+    "date": "2026-11-10",
+    "image": "images/haber-4.webp",
+    "imageAlt": "Ekranında renkli kod satırları görünen bir dizüstü bilgisayar",
+    "featured": false,
+    "content": [
+      "Microsoft, 10 Kasım'da .NET 11'in genel kullanıma açıldığını duyurdu. Yeni sürüm, iki yıl destek alacak Standart Süreli Destek (STS) sürümü olarak yayınlandı.",
+      "Yeniliklerin başında C# 15 geliyor. Dile eklenen birleşim tipleri (union types) ve kapalı hiyerarşiler, bir uygulamanın alabileceği durumları derleyicinin denetleyebileceği şekilde tanımlamayı kolaylaştırıyor. SDK tarafında ise günlük komutların daha hızlı çalışması için Native AOT ile derlenmiş bir komut satırı bileşeni ve sürekli açık kalan bir MSBuild sunucusu yer alıyor.",
+      "Yeni sürümle birlikte .NET 8 ve .NET 9'un desteği de sona erdi. Uzun süreli destek isteyen ekipler için .NET 10, LTS seçeneği olarak kalmaya devam ediyor."
+    ],
+    "source": {
+      "name": ".NET Blog",
+      "url": "https://devblogs.microsoft.com/dotnet/?p=61205"
+    }
+  },
+  {
+    "id": 5,
+    "title": "İddia: EA'nın sahipleri Unity'yi 25 milyar dolara satın almak için görüşüyor",
+    "summary": "Bir rapora göre Electronic Arts'ın sahipleri, oyun motoru Unity'yi satın almak için görüşmeler yürütüyor. Şirketlerden henüz bir açıklama yapılmadı.",
+    "category": "oyun",
+    "categoryName": "Oyun",
+    "date": "2026-11-06",
+    "image": "images/haber-5.webp",
+    "imageAlt": "Bir oyun geliştirme programının arayüzünde üç boyutlu bir sahne",
+    "featured": false,
+    "content": [
+      "Game World Observer'ın aktardığı bir rapora göre Electronic Arts'ın sahipleri, oyun motoru geliştiricisi Unity'yi yaklaşık 25 milyar dolara satın almak için görüşmeler yürütüyor.",
+      "Haber şimdilik bir iddia niteliğinde; iki şirketten de konuya ilişkin resmî bir açıklama yapılmadı.",
+      "Gelişme, oyun motorları pazarının değiştiği bir döneme denk geliyor. Game Developers Conference'ın (GDC) yakın zamanda yayımlanan bir çalışması, uzun yıllardır en popüler iki motor olan Unreal Engine ve Unity'nin kullanımının düzenli olarak azaldığına dikkat çekiyor."
+    ],
+    "source": {
+      "name": "Game World Observer",
+      "url": "https://gameworldobserver.com/"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Motorola, premium segmentteki yeni telefonu Signature 27'yi duyurdu",
+    "summary": "Uygun fiyatlı Moto G ve Edge serileriyle bilinen Motorola, Signature 27 ile üst segmentte iddiasını artırıyor.",
+    "category": "mobil",
+    "categoryName": "Mobil",
+    "date": "2026-11-05",
+    "image": "images/haber-6.webp",
+    "imageAlt": "Mermer bir masa üzerinde duran ince ve şık bir akıllı telefon",
+    "featured": false,
+    "content": [
+      "Motorola, Signature 27'nin küresel lansman tarihini 5 Kasım 2026 olarak doğrulamıştı. Şirketin ABD web sitesi de telefonun kasım ayında satışa çıkacağını belirtiyor.",
+      "Signature adı, Motorola'nın uzun süredir uygun fiyatlı modelleriyle bilinen markasını premium segmente taşıma çabasının bir parçası olarak görülüyor.",
+      "Bazı raporlara göre telefonda 6,8 inç LTPO AMOLED ekran, Android 17 ve 12 GB RAM bulunuyor. İşlemci ve batarya kapasitesiyle ilgili bilgiler ise kaynaklara göre farklılık gösteriyor ve resmî olarak doğrulanmış değil."
+    ],
+    "source": {
+      "name": "Tech Insider",
+      "url": "https://tech-insider.org/november-2026-smartphone-launches-motorola-signature-27-iqoo-16-2026/"
+    }
+  },
+  {
+    "id": 7,
+    "title": "OpenAI, GPT-6'yı tüm kullanıcıların erişimine açtı",
+    "summary": "Eylül ayında GPT-6 Astra ile yeni model ailesini tanıtan OpenAI, modeli daha geniş bir kullanıcı kitlesine sundu.",
+    "category": "yapay-zeka",
+    "categoryName": "Yapay Zekâ",
+    "date": "2026-10-07",
+    "image": "images/haber-7.webp",
+    "imageAlt": "Mor ve mavi ışıklarla parlayan soyut bir yapay sinir ağı görseli",
+    "featured": false,
+    "content": [
+      "OpenAI, 3 Eylül'de GPT-6 Astra adlı yeni model ailesini tanıtmış ve modeli şimdiye kadarki en iyi yazılım mühendisliği modeli olarak tanımlamıştı. Yenilik, ChatGPT ve kodlama aracı Codex için büyük bir güncelleme olarak sunulmuştu.",
+      "Şirket, 7 Ekim'de yayımladığı duyuruyla GPT-6'yı ve “Intelligent UI” adını verdiği arayüz özelliklerini herkesin kullanımına açtığını açıkladı.",
+      "Modelin farklı abonelik planlarındaki kullanım limitleri ve erişim ayrıntıları için OpenAI'ın resmî duyurusunu incelemenizi öneriyoruz."
+    ],
+    "source": {
+      "name": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/03/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Qualcomm'un ilk 2 nanometre yongaları: Snapdragon 8 Elite Gen 6 ailesi",
+    "summary": "Qualcomm, Snapdragon 8 Elite Extreme Gen 6 ve Snapdragon 8 Elite Gen 6 ile 2 nanometre üretim sürecine geçti.",
+    "category": "donanim",
+    "categoryName": "Donanım",
+    "date": "2026-09-22",
+    "image": "images/haber-8.webp",
+    "imageAlt": "Devre kartı üzerinde parlayan, yakından çekilmiş bir işlemci yongası",
+    "featured": false,
+    "content": [
+      "Qualcomm, yeni amiral gemisi mobil işlemcileri Snapdragon 8 Elite Extreme Gen 6 ve Snapdragon 8 Elite Gen 6'yı resmî olarak tanıttı. İki yonga, şirketin 2 nanometre süreçle üretilen ilk işlemcileri.",
+      "Duyuruya göre yongalar 5 GHz'e varan saat hızlarına ulaşıyor, grafik performansında ise önceki nesle göre yüzde 44'e varan artış sunuyor. Yeni nesil LPDDR6 bellek desteği de yeniliklerin arasında.",
+      "Yeni yongaların önümüzdeki aylarda çıkacak üst segment Android telefonlarda yer alması bekleniyor."
+    ],
+    "source": {
+      "name": "Wccftech",
+      "url": "https://wccftech.com/topic/announcement/"
+    }
+  },
+  {
+    "id": 9,
+    "title": "iPhone'un ilk 2 nanometre işlemcisi A20 Pro tanıtıldı",
+    "summary": "Apple'ın yeni A20 Pro yongası, 2 nanometre üretim süreciyle grafik ve yapay zekâ performansında önemli artışlar vaat ediyor.",
+    "category": "donanim",
+    "categoryName": "Donanım",
+    "date": "2026-09-09",
+    "image": "images/haber-9.webp",
+    "imageAlt": "Koyu bir zemin üzerinde metalik yüzeyli bir telefon işlemcisi",
+    "featured": false,
+    "content": [
+      "Apple, iPhone'larda kullanılacak ilk 2 nanometre yonga olan A20 Pro'yu tanıttı.",
+      "Aktarılan bilgilere göre yeni grafik birimi, grafik performansında yüzde 40'a varan artış ve FP8 hesaplamalarında iki kat performans sunuyor. İşlemci tarafında yüzde 20'lik bir hız artışından, Neural Engine ile birlikte ise yüzde 50'lik bir bant genişliği artışından söz ediliyor.",
+      "2 nanometre süreç, aynı alana daha fazla transistör sığdırarak hem performansı artırmayı hem de enerji tüketimini düşürmeyi hedefliyor. Bu yıl Qualcomm da ilk 2 nanometre yongalarını tanıtarak bu yarışa katıldı."
+    ],
+    "source": {
+      "name": "Wccftech",
+      "url": "https://wccftech.com/topic/announcement/"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Anket: Geliştiricilerin yüzde 90'ı yapay zekâ kodlama ajanlarını kullanıyor",
+    "summary": "JetBrains'in 15 binden fazla geliştiriciyle yaptığı ankete göre yapay zekâ kodlama ajanları, yazılım ekiplerinin standart araçları arasına girdi.",
+    "category": "yapay-zeka",
+    "categoryName": "Yapay Zekâ",
+    "date": "2026-08-19",
+    "image": "images/haber-10.webp",
+    "imageAlt": "Kod yazan bir yazılımcının ekranında beliren yapay zekâ önerileri",
+    "featured": false,
+    "content": [
+      "JetBrains, Mayıs–Temmuz 2026 döneminde dünya genelinde 15 binden fazla profesyonel geliştiriciyle gerçekleştirdiği Developer Ecosystem Survey 2026 anketinin ilk sonuçlarını paylaştı.",
+      "Ankete göre profesyonel geliştiricilerin yüzde 90'ı, yerel ya da bulut tabanlı yapay zekâ kodlama ajanlarını işte en az haftada bir kullanıyor. Her gün kullananların oranı ise yüzde 68.",
+      "Bu yıl onuncusu düzenlenen anket, sonuçların küresel geliştirici nüfusunu temsil etmesi için bölgelere, çalışma durumuna ve kullanılan programlama dillerine göre yeniden ağırlıklandırılarak hazırlanıyor."
+    ],
+    "source": {
+      "name": "JetBrains Research",
+      "url": "https://blog.jetbrains.com/research/2026/08/ai-coding-agent-adoption-2026/"
+    }
+  }
+]
