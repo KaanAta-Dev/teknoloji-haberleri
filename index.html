@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Yapay zekâ, mobil, yazılım, donanım ve oyun dünyasından güncel teknoloji haberleri"
+    />
+    <title>Teknoloji Haberleri | Güncel Teknoloji Gündemi</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Manrope:wght@600;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/base.css" />
+    <link rel="stylesheet" href="css/layout.css" />
+    <link rel="stylesheet" href="css/home.css" />
+    <script type="module" src="js/main.js"></script>
+    <script type="module" src="js/home.js"></script>
+  </head>
+  <body>
+    <a href="#ana-icerik" class="skip-link">İçeriğe atla</a>
+    <header class="site-header">
+      <div class="container site-header__inner">
+        <a href="index.html" class="logo">Teknoloji Haberleri</a>
+        <nav id="site-nav" class="site-nav">
+          <ul class="site-nav__list">
+            <li><a href="index.html">Ana Sayfa</a></li>
+            <li><a href="hakkimizda.html">Hakkımızda</a></li>
+          </ul>
+        </nav>
+        <button
+          type="button"
+          class="menu-toggle"
+          aria-label="Menü"
+          aria-controls="site-nav"
+          aria-expanded="false"
+        >
+          ☰
+        </button>
+      </div>
+    </header>
+    <main id="ana-icerik">
+      <section class="featured" aria-label="Manşet haber"></section>
+      <section class="news">
+        <div class="container">
+          <h2>Son Haberler</h2>
+          <form class="search" role="search">
+            <label for="search-input" class="sr-only">Haberlerde Ara</label>
+            <input
+              type="search"
+              id="search-input"
+              placeholder="Haberlerde ara..."
+            />
+          </form>
+          <div
+            class="filters"
+            role="group"
+            aria-label="Kategoriye göre filtrele"
+          >
+            <button
+              type="button"
+              class="filters__btn"
+              data-category="tumu"
+              aria-pressed="true"
+            >
+              Tümü
+            </button>
+            <button
+              type="button"
+              class="filters__btn"
+              data-category="yapay-zeka"
+              aria-pressed="false"
+            >
+              Yapay Zekâ
+            </button>
+            <button
+              type="button"
+              class="filters__btn"
+              data-category="mobil"
+              aria-pressed="false"
+            >
+              Mobil
+            </button>
+            <button
+              type="button"
+              class="filters__btn"
+              data-category="yazilim"
+              aria-pressed="false"
+            >
+              Yazılım
+            </button>
+            <button
+              type="button"
+              class="filters__btn"
+              data-category="donanim"
+              aria-pressed="false"
+            >
+              Donanım
+            </button>
+            <button
+              type="button"
+              class="filters__btn"
+              data-category="oyun"
+              aria-pressed="false"
+            >
+              Oyun
+            </button>
+          </div>
+          <p class="status" aria-live="polite">Haberler yükleniyor...</p>
+          <div class="news-grid"></div>
+        </div>
+      </section>
+      <noscript>
+        <p>
+          Haberleri görmek için tarayıcınızda JavaScript’in açık olması
+          gerekiyor
+        </p>
+      </noscript>
+    </main>
+    <footer class="site-footer">
+      <div class="container">© 2026 Teknoloji Haberleri</div>
+    </footer>
+  </body>
+</html>
